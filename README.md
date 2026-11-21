@@ -1,6 +1,4 @@
-# Tugas Praktikum 2
-## Implementasi Tampilan Web Interaktif Menggunakan Komponen WebView pada Arsitektur Baru (Fabric) React Native
-
+# Tugas : Membuat Permainan Tic Tac Toe
 ### 1. Persiapan Kerja di VSCodium
 1. Pastikan **Node.js** dan **VSCodium** sudah terpasang (`node -v` dan `npm -v`).
 2. Ekstrak folder proyek ini atau jalankan `npm install` di dalam folder proyek:
